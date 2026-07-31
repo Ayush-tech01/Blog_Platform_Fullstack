@@ -1,5 +1,5 @@
 # Inkwell — Blog Platform
-> Full-stack blog website built with React, Node.js, Express, and MongoDB
+> Full-stack blog website built with React, Node.js, Express, and MongoDB..
 
 ---
 

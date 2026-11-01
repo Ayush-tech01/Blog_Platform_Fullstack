@@ -6,7 +6,7 @@
 ## Features
 
 **For Readers**
-- Browse, search, and filter posts by category and
+- Browse, search, and filter posts by category and t
 - Like and save posts
 - Comment and reply on posts
 - View author profiles
